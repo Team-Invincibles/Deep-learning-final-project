@@ -9,6 +9,15 @@ This is a trash managment system project for deep learning course 258
 ### 3. _Atul Shah_
 ### 4. _Shailesha Prasad Maganahalli_
 
+## PERFORMANCE OF MODELS IN CHART
+![alt text](https://github.com/Team-Invincibles/Deep-learning-final-project/blob/master/pictures/performance_chart.png?raw=true)
+
+## BEST ACCURACIES 
+![alt text](https://github.com/Team-Invincibles/Deep-learning-final-project/blob/master/pictures/best_performance.png?raw=true)
+
+## MODEL LOSS
+![alt text](https://github.com/Team-Invincibles/Deep-learning-final-project/blob/master/pictures/model_losses.png?raw=true)
+
 ## DateSets 
 [Data set link1](https://www.kaggle.com/asdasdasasdas/garbage-classification)
 
