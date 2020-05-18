@@ -9,7 +9,8 @@ This is a trash managment system project for deep learning course 258
 ### 3. _Atul Shah_
 ### 4. _Shailesha Prasad Maganahalli_
 
-[_Data set link1_] (https://www.kaggle.com/asdasdasasdas/garbage-classification?)
+[_Data set link1_] (https://www.kaggle.com/asdasdasasdas/garbage-classification)
+
 [Data set link2 ](https://github.com/garythung/trashnet)
 
 ### Dataset contains 2527 images _glass_ , _paper_, _cardboard_, _plastic_, _metal_, _trash_
@@ -24,5 +25,5 @@ This is a trash managment system project for deep learning course 258
 
 **[ TENSOR BOARD LINK_]** (https://www.kaggle.com/asdasdasasdas/garbage-classification?)
 
-![alt text](https://github.com/Team-Invincibles/Deep-learning-final-project/blob/master/pictures/picturetensor.png)
+![alt text](https://github.com/Team-Invincibles/Deep-learning-final-project/blob/master/pictures/picturetensor.png?raw=true)
 
