@@ -18,10 +18,13 @@ This is a trash managment system project for deep learning course 258
 ## MODEL LOSS
 ![alt text](https://github.com/Team-Invincibles/Deep-learning-final-project/blob/master/pictures/model_losses.png?raw=true)
 
-## DateSets 
-[Data set link1](https://www.kaggle.com/asdasdasasdas/garbage-classification)
+## DATASETS
 
-[Data set link2](https://github.com/garythung/trashnet)
+### INSTRUCTIONS FOR LOADING DATA IN CODE
+  ### 1. DOWNLOAD FROM THE MENTIONED BELOW LINK 
+  ### 2. UPLOAD THE DATASET TO GOOGLE DRIVE AND UNZIP
+  
+[Data set link1](https://www.kaggle.com/asdasdasasdas/garbage-classification)
 
 ### Dataset contains 2527 images _glass_ , _paper_, _cardboard_, _plastic_, _metal_, _trash_
 
