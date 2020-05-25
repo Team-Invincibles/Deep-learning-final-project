@@ -24,7 +24,7 @@ This is a trash managment system project for deep learning course 258
 
 ### INSTRUCTIONS FOR LOADING DATA IN CODE
   ### 1. DOWNLOAD FROM THE MENTIONED BELOW LINK 
-  ### 2. UPLOAD THE DATASET TO GOOGLE DRIVE AND UNZIP
+  ### 2. UPLOAD THE DATASET TO GOOGLE DRIVE AND UNZIP BEFORE RUNNING THE CODE.
   
 [Data set link1](https://www.kaggle.com/asdasdasasdas/garbage-classification)
 
