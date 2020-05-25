@@ -3,6 +3,8 @@ This is a trash managment system project for deep learning course 258
 
 ![alt text](https://github.com/Team-Invincibles/Deep-learning-final-project/blob/master/pictures/TrashImages.jpg?raw=true)
 
+# output code link :[working code with outputs](https://colab.research.google.com/drive/1_OwxlQ-aQDE6O0e3sd-6Bepx31tHvH4g?usp=sharing)
+
 ## _Team Memebers_ :
 ### 1. _Srilalitha Veerubhotla_
 ### 2. _Shreyus Puthiyarapurail_
